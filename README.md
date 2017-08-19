@@ -3,4 +3,5 @@ The different branches within this repository contain the designs for the differ
 
 ## Mouse
 [Mouse](https://github.com/pakobots/cad/tree/mouse)
-> [Mouse](img/mouse.png?raw=true "Mouse")
+---
+![Mouse](img/mouse.png?raw=true "Mouse")
