@@ -7,4 +7,4 @@ The STL files are usually compatible with most 3D printers. The files were desig
 [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) design files for the robot.
 
 ## gcode directory
-The gcode files to print directly on Taz5+ printers.
+The gcode files to print directly on Taz5 only printers.
