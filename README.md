@@ -1,10 +1,7 @@
-# CAD Designs
-The different branches within this repository contain the designs for the different robots. Please choose the robot of intrest from below
+# CAD Designs (Brick)
 
-[Mouse](https://github.com/pakobots/cad/tree/mouse)
----
-![Mouse](img/mouse.png?raw=true "Mouse")
+## stl directory
+The STL files are usually compatible with most 3D printers. The files were designed for the Taz5 Lulzbot 3D printer from [Aleph Objects](https://www.alephobjects.com/)
 
-[Brick](https://github.com/pakobots/cad/tree/brick)
----
-![Brick](img/brick.png?raw=true "Brick")
+## f3d directory
+[Fusion 360](https://www.autodesk.com/products/fusion-360/overview) design files for the robot.
